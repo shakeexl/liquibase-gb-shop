@@ -8,4 +8,5 @@
     http://www.liquibase.org/xml/ns/pro http://www.liquibase.org/xml/ns/pro/liquibase-pro-4.6.xsd ">
 
     <include file="lesson1/create.init.tables.xml" relativeToChangelogFile="true"/>
+    <include file="lesson1/create.manufacturer.table.xml" relativeToChangelogFile="true"/>
 </databaseChangeLog>

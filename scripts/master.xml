@@ -13,4 +13,5 @@
     <include file="lesson1/create.user.role.auth.tables.xml" relativeToChangelogFile="true"/>
 
     <include file="lesson2/manufacturer.add.service.info.columns.xml" relativeToChangelogFile="true"/>
+    <include file="lesson2/category.add.service.info.columns.xml" relativeToChangelogFile="true"/>
 </databaseChangeLog>
